@@ -38,3 +38,5 @@ Also we noticed a trends in terms of total children and total amount spent. We s
 
 ![newplot (17)](https://user-images.githubusercontent.com/73393430/198870806-93fb7387-48cd-4c86-94fc-701b2d5bb458.png)
 
+Thank you for reading.
+
